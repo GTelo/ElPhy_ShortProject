@@ -1,4 +1,4 @@
-ElPhy_ShortProject
+Short Project - Respiration from ECG
 ==================
 
 ## Data Files:
