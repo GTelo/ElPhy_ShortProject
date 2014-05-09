@@ -20,7 +20,7 @@ In the first step we've recorded data
 
 This was the first signal extracted from bitalino 
 
-![first signal](http://produceconsumerobot.com/biosensing/content/gimo32-f3.jpg)
+![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.jpeg)
 
 We concluded that we needed to use a better electrodes position
 
