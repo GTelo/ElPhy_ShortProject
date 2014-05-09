@@ -20,7 +20,7 @@ In the first step we've recorded data
 
 This was the first signal extracted from bitalino 
 
-![first signal](http://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.jpeg)
+![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.png)
 
 We concluded that we needed to use a better electrodes position
 
