@@ -16,13 +16,13 @@ We passed by the several steps:
 
 ### Step 1 - First recording
 
-During the first stage/step we recorded data twice, using different sampling frequencies (1000 and 100 samples per second).
+During the first step we recorded data twice, using different sampling frequencies (1000 and 100 samples per second).
 
-This was the first signal extracted from bitalino, with a sampling frequnecy of 1000 samples per second:
+This was the first signal extracted from bitalino, with a sampling frequency of 1000 samples per second:
 
 ![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_1.png?raw=true)
 
-This was the second signal extracted from bitalino, with a sampling frequnecy of 100 samples per second:
+This was the second signal extracted from bitalino, with a sampling frequency of 100 samples per second:
 
 ![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.png?raw=true)
 
