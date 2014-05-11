@@ -2,13 +2,13 @@
 
 ## Goal
 
-Describe the goal. We will use Bitalino to ...
+Describe the goal. We will use Bitalino to estimate de Respiratory Rate (RR) of an individual from his Electrocardiogram signal.
 
 ## Team
 
-* Ana Esteves, role
-* Débora Pera, role
-* Gonçalo Telo, role
+* Ana Esteves
+* Débora Pera
+* Gonçalo Telo
 
 ## Process
 
