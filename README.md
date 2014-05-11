@@ -7,7 +7,8 @@ Short Project - Respiration from ECG
 
 
 ## Figure Files:
-1. figure_2.png - Graphic Representation of the Second Acquisition 
+1. figure_1.png - Graphic Representation of the First Acquisition 
+2. figure_2.png - Graphic Representation of the Second Acquisition 
 
 
 
