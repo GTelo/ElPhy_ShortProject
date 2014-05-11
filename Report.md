@@ -36,13 +36,13 @@ This was the second signal extracted from bitalino, with a sampling frequnecy of
 
 In order to achieve our final goal, we followed the stages bellow:
 
-1. Data conversion 
-2. Low-Pass filter at 40 Hz
-3. ECG R-peak detection
-4. Interpolation of a baseline, created by the R-peaks
-5. Select the local maximums
-6. Calculate the time between maximums and define the RR value
-7. Estimate RR evolution
+1. Data conversion;
+2. Low-Pass filter at 40 Hz;
+3. ECG R-peak detection;
+4. Interpolation of a baseline, created by the R-peaks;
+5. Select the local maximums;
+6. Calculate the time between maximums and define the RR value;
+7. Estimate RR evolution.
 
 ### Step 4 - Real time tests
 
