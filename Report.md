@@ -2,7 +2,7 @@
 
 ## Goal
 
-Describe the goal. We will use Bitalino to estimate de Respiratory Rate (RR) from an electrocardiogram (ECG).
+Our goal is to use Bitalino to acquire an electrocardiogram (ECG) and estimate the Respiratory Rate (RR) from that signal.
 
 ## Team
 
@@ -14,15 +14,18 @@ Describe the goal. We will use Bitalino to estimate de Respiratory Rate (RR) fro
 
 We passed by the several steps:
 
-### Step 1 - First signal recorded
+### Step 1 - First recording
 
-In the first step we've recorded data 
+During the first stage/step we recorded data twice, using different sampling frequencies (1000 and 100 samples per second).
 
-This was the first signal extracted from bitalino 
+This was the first signal extracted from bitalino, with a sampling frequnecy of 1000 samples per second:
 
 ![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.png?raw=true)
 
-We concluded that we needed to use a better electrodes position
+This was the second signal extracted from bitalino, with a sampling frequnecy of 100 samples per second:
+
+![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.png?raw=true)
+
 
 ### Step 2 - Improved signal
 
