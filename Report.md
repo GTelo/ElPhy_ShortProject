@@ -35,7 +35,8 @@ This was the second signal extracted from bitalino, with a sampling frequnecy of
 ### Step 3 - Defining the signal processing stages
 
 In order to achieve our final goal, we followed the stages bellow:
-1. Data conversion \n
+
+1. Data conversion 
 2. Low-Pass filter at 40 Hz
 3. ECG R-peak detection
 4. Interpolation of a baseline, created by the R-peaks
