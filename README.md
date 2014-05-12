@@ -7,11 +7,11 @@ Short Project - Respiration from ECG
   1. d1_e1_fs1000.txt - First Acquisition (1000 samples per second)
   2. d1_e2.txt - Second Acquisition (100 samples per second)
 
-2. Second day:
+2. Second day (100 samples per second):
 
-  1. d2_e1.txt
-  2. d2_e2.txt
-  3. d2_e3.txt
+  1. d2_e1.txt - First Acquisition
+  2. d2_e2.txt - Second Acquisition
+  3. d2_e3.txt - Third Acquisition (with deep respiration)
 
 
 
