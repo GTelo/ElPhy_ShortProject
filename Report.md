@@ -27,12 +27,8 @@ This was the second signal extracted from bitalino, with a sampling frequency of
 ![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2.png?raw=true)
 
 
-### Step 2 - Improved signal
 
-...
-
-
-### Step 3 - Defining the signal processing stages
+### Step 2 - Defining the signal processing stages
 
 In order to achieve our final goal, we followed the stages bellow:
 
@@ -44,7 +40,7 @@ In order to achieve our final goal, we followed the stages bellow:
 6. Calculate the time between maximums and define the RR value;
 7. Estimate RR evolution.
 
-### Step 4 - The final outcome
+### Step 3 - The final outcome
 
 ![first signal](https://github.com/GTelo/ElPhy_ShortProject/blob/master/figure_2_processed.png?raw=true)
 
@@ -155,7 +151,4 @@ print mean(RR)
 The major discoveries made in this project were: 
 
 * Scientific enlightment 
-* Eureka moment
-* Singularity vision
-* Trasncendental perception
 
